@@ -1,4 +1,4 @@
-![Letícia Monteiro](https://readme-typing-svg.herokuapp.com?font=Inter&color=DA81F5&size=30&weight=900&lines=Hi,+My+name+is+Laryssa+Felix;Software+engineering+students)
+![Letícia Monteiro](https://readme-typing-svg.herokuapp.com?font=Inter&color=DA81F5&size=30&weight=900&lines=Hi,+My+name+is+Letícia+Monteiro;Software+engineering+students)
 
 💜 Fascinada pelo mundo tech <br>
 📧 Meu email pessoal é leticaslvmonteiro@gmail.com<br>
@@ -18,18 +18,18 @@
 </a> </p>
 <br />
 <div align="center">
- <img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixlaryssa&theme=tokyonight"/> 
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixlaryssa&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+ <img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeticiaMonteiroo&theme=tokyonight"/> 
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMonteiroo&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
 <p align="center">
-<a href="https://github.com/felixlaryssa/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=felixlaryssa">
+<a href="https://github.com/LeticiaMonteiroo/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=LeticiaMonteiroo">
 </a>
-    <a href="https://github.com/felixlaryssa?tab=followers">
-        <img src="https://img.shields.io/github/followers/felixlaryssa?label=Followers&style=social" alt="GitHub Badge">
+    <a href="https://github.com/LeticiaMonteiroo?tab=followers">
+        <img src="https://img.shields.io/github/followers/LeticiaMonteiroo?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: felixlaryssa Visitor's Count" /></p>
