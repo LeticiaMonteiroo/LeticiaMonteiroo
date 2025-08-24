@@ -1,7 +1,6 @@
 ![Letícia Monteiro](https://readme-typing-svg.herokuapp.com?font=Inter&color=DA81F5&size=30&weight=900&lines=Hi,+My+name+is+Letícia+Monteiro;Software+engineering+students)
 
 💜 Fascinada pelo mundo tech <br>
-📧 Meu email pessoal é leticaslvmonteiro@gmail.com<br>
 👩‍🎓 Engenharia de Software - UnB (Universidade de Brasília)
 
 ### Languages and Tools:
